@@ -1,0 +1,25 @@
+@media (max-width: 1020px) {
+ 
+
+  .header__content{
+    flex-direction: column-reverse;
+  }
+ 
+  .header__title{
+    display: none;
+    
+  }
+  
+}
+
+@media (max-width: 900px) {
+  .content__main__section1{
+    flex-direction: column-reverse;
+  }
+
+  .sobre__descricao{
+    flex-direction: column-reverse;
+  }
+
+}
+
